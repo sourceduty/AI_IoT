@@ -1,6 +1,6 @@
 ![AI + IoT](https://github.com/user-attachments/assets/1793c69b-0fe9-4e27-baa8-45230c99239f)
 
-> Plan and simulate AI-Assisted IoT projects.
+> Plan and simulate AI-assisted IoT projects.
 
 #
 
