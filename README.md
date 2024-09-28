@@ -12,6 +12,12 @@ By focusing on technical and practical aspects, this GPT ensures that users rece
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Electronic Simulator](https://github.com/sourceduty/Electronic_Simulator)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[PCB Architect](https://github.com/sourceduty/PCB_Architect)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
