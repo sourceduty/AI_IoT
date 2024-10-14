@@ -46,7 +46,7 @@ Another example could involve a smart building energy management system. IoT dev
 <br>
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
-[Art Robotic](https://github.com/sourceduty/Art_Robotics)
+[Art Robotics](https://github.com/sourceduty/Art_Robotics)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
