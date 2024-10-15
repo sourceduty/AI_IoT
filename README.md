@@ -36,9 +36,11 @@ On the defensive side, sci-fi monitoring devices are equally advanced, using a c
 
 5. AI Biometric Art Reactor
    - Uses AI to process heart rate data, producing reactive visuals that pulse and shift according to the user’s heartbeat, creating a personalized art experience.
-  
+
 #
-### Interactive Computational Art Reactors
+#### Interactive Computational Art Reactors
+
+![Art](https://github.com/user-attachments/assets/ea1bba73-5c91-4d5b-b595-6d9b352e9cb3)
 
 1. Audio-Reactive Button-Controlled AI Art Reactor
    - Generates visuals that react to audio input, allowing users to change visual styles or color schemes by pressing buttons connected to the Pi.
