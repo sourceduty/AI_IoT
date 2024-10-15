@@ -78,6 +78,10 @@ Another example could involve a smart building energy management system. IoT dev
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
 [Art Robotics](https://github.com/sourceduty/Art_Robotics)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
+<br>
+[Hack simulator](https://github.com/sourceduty/Hack_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
