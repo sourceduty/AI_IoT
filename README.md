@@ -18,7 +18,7 @@ Simulated sci-fi security hacking and monitoring devices often feature advanced,
 On the defensive side, sci-fi monitoring devices are equally advanced, using a combination of quantum encryption, neural networks, and bio-integrated sensors to detect and neutralize potential threats. These systems are often depicted as having an almost sentient awareness, able to distinguish between harmless anomalies and genuine security breaches. They might employ drones equipped with thermal imaging and EMP capabilities to patrol perimeters and disrupt unauthorized devices. Advanced AI algorithms can analyze vast amounts of data in real-time, identifying patterns indicative of hacking attempts or unauthorized intrusions. For instance, a central security AI could monitor all network traffic, user behavior, and environmental conditions within a facility, autonomously isolating compromised systems and deploying countermeasures like scrambling signals or shutting down access points to prevent data exfiltration.
 
 #
-### Computational Art Reactors
+### Ambient Computational Art Reactors
 
 ![Python Art](https://github.com/user-attachments/assets/62f0d239-18de-4ca9-a7b0-415c4e6a68d6)
 
@@ -36,6 +36,24 @@ On the defensive side, sci-fi monitoring devices are equally advanced, using a c
 
 5. AI Biometric Art Reactor
    - Uses AI to process heart rate data, producing reactive visuals that pulse and shift according to the user’s heartbeat, creating a personalized art experience.
+  
+#
+### Interactive Computational Art Reactors
+
+1. Audio-Reactive Button-Controlled AI Art Reactor
+   - Generates visuals that react to audio input, allowing users to change visual styles or color schemes by pressing buttons connected to the Pi.
+
+2. Motion-Responsive Button-Enhanced AI Art Reactor
+   - Analyzes movement and creates generative art, with buttons allowing users to alter shapes, colors, or speed of the motion-based visuals in real-time.
+
+3. AI Weather Art Reactor with Pattern Change Buttons
+   - Produces weather-based landscape art that adapts to environmental conditions, with buttons enabling manual adjustments to the style or detail level of the generated scene.
+
+4. Text-Based Button-Controlled AI Visualization Reactor
+   - Converts text into visual art, where users can use buttons to switch between different color palettes, shapes, and effects based on the tone of the text.
+
+5. Biometric Button-Interactive AI Art Reactor
+   - Uses heart rate data to create reactive visuals that reflect the user’s heartbeat, with button controls to modify aspects like animation speed, color, or intensity.
 
 #
 ### Improvement Value (IV)
