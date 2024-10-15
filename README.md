@@ -20,7 +20,7 @@ On the defensive side, sci-fi monitoring devices are equally advanced, using a c
 #
 ### Ambient Computational Art Reactors
 
-![Python Art](https://github.com/user-attachments/assets/62f0d239-18de-4ca9-a7b0-415c4e6a68d6)
+![Art](https://github.com/user-attachments/assets/baefc076-7178-4d7f-9a92-f5c1b2fade54)
 
 1. Audio-Reactive AI Art Reactor
    - Uses AI and Python to generate visuals that react to live audio input, with patterns that change based on sound frequency and amplitude.
