@@ -9,6 +9,17 @@
 By focusing on technical and practical aspects, this GPT ensures that users receive actionable advice for building and optimizing their AI and IoT systems. It supports a wide range of platforms, including popular microcontroller boards like Raspberry Pi and Arduino, making it accessible for both beginners and experienced developers. This custom GPT is designed to ask clarifying questions in a step-by-step format, ensuring that users can build a clear and effective roadmap for their projects.
 
 #
+### Concept IoT Project Ideas
+
+```
+- Utilize a building plan in an IoT project.
+- Create custom IoT hardware for pet animals.
+- Create sci-fi style IoT hardware.
+- Create professional IoT hardware for office spaces.
+- Create custom IoT hardware for grass cutting.
+```
+
+#
 ### Sci-Fi IoT Devices
 
 ![Bond](https://github.com/user-attachments/assets/1f4866ad-9541-4e23-9972-e6a61553a643)
