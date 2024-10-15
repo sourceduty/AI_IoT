@@ -81,7 +81,7 @@ Another example could involve a smart building energy management system. IoT dev
 <br>
 [IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 <br>
-[Hack simulator](https://github.com/sourceduty/Hack_Simulator)
+[Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
