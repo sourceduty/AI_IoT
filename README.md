@@ -20,7 +20,7 @@ By focusing on technical and practical aspects, this GPT ensures that users rece
 ```
 
 #
-### Hackton Timewaste
+### Hackathon Timewaste
 
 ![Hackathon](https://github.com/user-attachments/assets/2681d8fe-dc1c-414b-ade0-d9497b5d989b)
 
